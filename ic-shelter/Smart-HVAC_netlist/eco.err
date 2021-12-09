@@ -1,0 +1,23 @@
+** ECO In Report **
+
+Mon Mar 15 19:18:50 2021
+
+Input  File : C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\SMART-HVAC_BASE_V1_TOP.eco
+Current Job : Untitled
+
+
+
+Line 1172 , Section *MODIFY_GENERAL_RULES*
+VALID_LAYER 3
+* There is no Layer 3 in design
+
+Line 1173 , Section *MODIFY_GENERAL_RULES*
+VALID_LAYER 4
+* There is no Layer 4 in design
+
+
+Attribute Dictionary was modified during import operations.  The following
+attributes were added to the Attribute Dictionary as non-ECO Registered:
+
+PKG_TYPE
+CLASS

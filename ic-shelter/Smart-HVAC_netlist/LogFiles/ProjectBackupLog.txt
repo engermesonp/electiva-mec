@@ -1,0 +1,238 @@
+[2018-03-31 20.19.00] Successfully created [AutoSave] backup [2018-03-31 20.19.00 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-01 00.19.00] Successfully created [AutoSave] backup [2018-04-01 00.19.00 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-02 01.24.05] Successfully created [AutoSave] backup [2018-04-02 01.24.05 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-02 13.32.13] Successfully created [AutoSave] backup [2018-04-02 13.32.13 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-02 13.32.13] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-03-31 20.19.00 - auto.zip].
+[2018-04-02 13.32.13] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-03-31 20.19.00 - auto.zip] removed.
+[2018-04-03 20.11.06] Successfully created [AutoSave] backup [2018-04-03 20.11.06 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-03 20.11.06] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-01 00.19.00 - auto.zip].
+[2018-04-03 20.11.06] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-01 00.19.00 - auto.zip] removed.
+[2018-04-05 16.41.41] Successfully created [AutoSave] backup [2018-04-05 16.41.41 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-05 16.41.41] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-02 01.24.05 - auto.zip].
+[2018-04-05 16.41.41] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-02 01.24.05 - auto.zip] removed.
+[2018-04-05 19.06.07] Successfully created [Symbol Update] backup [2018-04-05 19.06.07 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-05 19.07.07] Successfully created [Symbol Update] backup [2018-04-05 19.07.07 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-05 19.07.07] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-05 19.06.07 - symUpd.zip].
+[2018-04-05 19.07.07] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-05 19.06.07 - symUpd.zip] removed.
+[2018-04-05 19.50.38] Successfully created [Symbol Update] backup [2018-04-05 19.50.38 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-05 19.50.38] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-05 19.07.07 - symUpd.zip].
+[2018-04-05 19.50.38] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-05 19.07.07 - symUpd.zip] removed.
+[2018-04-06 18.58.50] Successfully created [AutoSave] backup [2018-04-06 18.58.50 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-06 18.58.50] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-02 13.32.13 - auto.zip].
+[2018-04-06 18.58.50] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-02 13.32.13 - auto.zip] removed.
+[2018-04-09 11.23.12] Successfully created [Symbol Update] backup [2018-04-09 11.23.11 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-09 11.23.12] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-05 19.50.38 - symUpd.zip].
+[2018-04-09 11.23.12] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-05 19.50.38 - symUpd.zip] removed.
+[2018-04-09 14.26.05] Successfully created [AutoSave] backup [2018-04-09 14.26.05 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-09 14.26.05] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-03 20.11.06 - auto.zip].
+[2018-04-09 14.26.05] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-03 20.11.06 - auto.zip] removed.
+[2018-04-09 18.26.05] Successfully created [AutoSave] backup [2018-04-09 18.26.05 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-09 18.26.05] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-05 16.41.41 - auto.zip].
+[2018-04-09 18.26.05] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-05 16.41.41 - auto.zip] removed.
+[2018-04-09 22.26.05] Successfully created [AutoSave] backup [2018-04-09 22.26.05 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-09 22.26.05] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-06 18.58.50 - auto.zip].
+[2018-04-09 22.26.05] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-06 18.58.50 - auto.zip] removed.
+[2018-04-10 02.26.05] Successfully created [AutoSave] backup [2018-04-10 02.26.05 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-10 02.26.05] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-09 14.26.05 - auto.zip].
+[2018-04-10 02.26.05] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-09 14.26.05 - auto.zip] removed.
+[2018-04-10 12.36.59] Successfully created [AutoSave] backup [2018-04-10 12.36.59 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-10 12.36.59] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-09 18.26.05 - auto.zip].
+[2018-04-10 12.36.59] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-09 18.26.05 - auto.zip] removed.
+[2018-04-10 15.49.00] Successfully created [Symbol Update] backup [2018-04-10 15.49.00 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-10 15.49.00] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-09 11.23.11 - symUpd.zip].
+[2018-04-10 15.49.00] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-09 11.23.11 - symUpd.zip] removed.
+[2018-04-10 16.18.15] Successfully created [Symbol Update] backup [2018-04-10 16.18.15 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-10 16.18.15] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 15.49.00 - symUpd.zip].
+[2018-04-10 16.18.15] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 15.49.00 - symUpd.zip] removed.
+[2018-04-10 16.23.56] Successfully created [Symbol Update] backup [2018-04-10 16.23.56 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-10 16.23.56] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 16.18.15 - symUpd.zip].
+[2018-04-10 16.23.56] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 16.18.15 - symUpd.zip] removed.
+[2018-04-10 16.36.59] Successfully created [AutoSave] backup [2018-04-10 16.36.59 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-10 16.36.59] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-09 22.26.05 - auto.zip].
+[2018-04-10 16.36.59] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-09 22.26.05 - auto.zip] removed.
+[2018-04-10 16.38.34] Successfully created [Symbol Update] backup [2018-04-10 16.38.34 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-10 16.38.34] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 16.23.56 - symUpd.zip].
+[2018-04-10 16.38.34] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 16.23.56 - symUpd.zip] removed.
+[2018-04-10 17.04.09] Successfully created [Symbol Update] backup [2018-04-10 17.04.09 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-10 17.04.09] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 16.38.34 - symUpd.zip].
+[2018-04-10 17.04.09] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 16.38.34 - symUpd.zip] removed.
+[2018-04-10 19.01.32] Successfully created [Symbol Update] backup [2018-04-10 19.01.32 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-10 19.01.32] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 17.04.09 - symUpd.zip].
+[2018-04-10 19.01.32] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 17.04.09 - symUpd.zip] removed.
+[2018-04-10 19.13.22] Successfully created [Symbol Update] backup [2018-04-10 19.13.21 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-10 19.13.22] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 19.01.32 - symUpd.zip].
+[2018-04-10 19.13.22] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 19.01.32 - symUpd.zip] removed.
+[2018-04-10 22.31.30] Successfully created [AutoSave] backup [2018-04-10 22.31.30 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-10 22.31.30] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 02.26.05 - auto.zip].
+[2018-04-10 22.31.30] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 02.26.05 - auto.zip] removed.
+[2018-04-11 02.31.30] Successfully created [AutoSave] backup [2018-04-11 02.31.30 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-11 02.31.30] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 12.36.59 - auto.zip].
+[2018-04-11 02.31.30] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 12.36.59 - auto.zip] removed.
+[2018-04-11 07.47.19] Successfully created [AutoSave] backup [2018-04-11 07.47.19 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-11 07.47.19] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 16.36.59 - auto.zip].
+[2018-04-11 07.47.19] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 16.36.59 - auto.zip] removed.
+[2018-04-11 14.54.37] Successfully created [AutoSave] backup [2018-04-11 14.54.37 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-11 14.54.37] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 22.31.30 - auto.zip].
+[2018-04-11 14.54.37] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 22.31.30 - auto.zip] removed.
+[2018-04-11 18.54.37] Successfully created [AutoSave] backup [2018-04-11 18.54.37 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-11 18.54.37] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-11 02.31.30 - auto.zip].
+[2018-04-11 18.54.37] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-11 02.31.30 - auto.zip] removed.
+[2018-04-12 09.58.03] Successfully created [AutoSave] backup [2018-04-12 09.58.03 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-12 09.58.03] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-11 07.47.19 - auto.zip].
+[2018-04-12 09.58.03] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-11 07.47.19 - auto.zip] removed.
+[2018-04-12 13.58.03] Successfully created [AutoSave] backup [2018-04-12 13.58.03 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-12 13.58.03] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-11 14.54.37 - auto.zip].
+[2018-04-12 13.58.03] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-11 14.54.37 - auto.zip] removed.
+[2018-04-13 23.47.37] Successfully created [AutoSave] backup [2018-04-13 23.47.37 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-13 23.47.37] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-11 18.54.37 - auto.zip].
+[2018-04-13 23.47.37] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-11 18.54.37 - auto.zip] removed.
+[2018-04-14 01.48.36] Successfully created [Symbol Update] backup [2018-04-14 01.48.36 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-14 01.48.36] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 19.13.21 - symUpd.zip].
+[2018-04-14 01.48.36] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-10 19.13.21 - symUpd.zip] removed.
+[2018-04-14 03.47.37] Successfully created [AutoSave] backup [2018-04-14 03.47.37 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-14 03.47.37] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-12 09.58.03 - auto.zip].
+[2018-04-14 03.47.37] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-12 09.58.03 - auto.zip] removed.
+[2018-04-14 23.08.24] Successfully created [AutoSave] backup [2018-04-14 23.08.24 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-14 23.08.24] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-12 13.58.03 - auto.zip].
+[2018-04-14 23.08.24] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-12 13.58.03 - auto.zip] removed.
+[2018-04-15 03.08.24] Successfully created [AutoSave] backup [2018-04-15 03.08.24 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-15 03.08.24] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-13 23.47.37 - auto.zip].
+[2018-04-15 03.08.24] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-13 23.47.37 - auto.zip] removed.
+[2018-04-15 13.34.08] Successfully created [Symbol Update] backup [2018-04-15 13.34.07 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-15 13.34.08] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-14 01.48.36 - symUpd.zip].
+[2018-04-15 13.34.08] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-14 01.48.36 - symUpd.zip] removed.
+[2018-04-15 13.40.53] Successfully created [Symbol Update] backup [2018-04-15 13.40.53 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-15 13.40.53] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 13.34.07 - symUpd.zip].
+[2018-04-15 13.40.53] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 13.34.07 - symUpd.zip] removed.
+[2018-04-15 14.16.57] Successfully created [Symbol Update] backup [2018-04-15 14.16.57 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-15 14.16.57] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 13.40.53 - symUpd.zip].
+[2018-04-15 14.16.57] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 13.40.53 - symUpd.zip] removed.
+[2018-04-15 14.17.08] Successfully created [AutoSave] backup [2018-04-15 14.17.08 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-15 14.17.08] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-14 03.47.37 - auto.zip].
+[2018-04-15 14.17.08] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-14 03.47.37 - auto.zip] removed.
+[2018-04-15 18.17.08] Successfully created [AutoSave] backup [2018-04-15 18.17.08 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-04-15 18.17.08] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-14 23.08.24 - auto.zip].
+[2018-04-15 18.17.08] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-14 23.08.24 - auto.zip] removed.
+[2018-04-15 18.36.33] Successfully created [Symbol Update] backup [2018-04-15 18.36.33 - symUpd.zip] requested by [CAPV-PC:carlo].
+[2018-04-15 18.36.33] Removing excessive [Symbol Update] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 14.16.57 - symUpd.zip].
+[2018-04-15 18.36.33] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 14.16.57 - symUpd.zip] removed.
+[2018-05-17 17.07.32] Successfully created [AutoSave] backup [2018-05-17 17.07.32 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-05-17 17.07.32] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 03.08.24 - auto.zip].
+[2018-05-17 17.07.32] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 03.08.24 - auto.zip] removed.
+[2018-05-23 09.56.04] Successfully created [AutoSave] backup [2018-05-23 09.56.04 - auto.zip] requested by [CAPV-PC:carlo].
+[2018-05-23 09.56.04] Removing excessive [AutoSave] backup file [F:\CAPV\OneDrive\Proyectos\Manicato Group\Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 14.17.08 - auto.zip].
+[2018-05-23 09.56.04] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 14.17.08 - auto.zip] removed.
+[2018-12-27 13.55.20] Successfully created [Database Upgrade] backup [2018-12-27 13.55.20 - upgrade.zip] requested by [MG-STUDIO:Carlos Pichardo].
+[2018-12-27 13.55.20] Migrated iCDB content backup file [cdbback\2018-12-27 13.55.19-16664.zip] removed.
+[2018-12-27 13.55.20] Successfully created [AutoSave] backup [2018-12-27 13.55.20 - auto.zip] requested by [MG-STUDIO:Carlos Pichardo].
+[2018-12-27 13.55.20] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 18.17.08 - auto.zip].
+[2018-12-27 13.55.20] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 18.17.08 - auto.zip] removed.
+[2018-12-27 17.55.20] Successfully created [AutoSave] backup [2018-12-27 17.55.20 - auto.zip] requested by [MG-STUDIO:Carlos Pichardo].
+[2018-12-27 17.55.20] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-05-17 17.07.32 - auto.zip].
+[2018-12-27 17.55.20] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-05-17 17.07.32 - auto.zip] removed.
+[2019-02-22 17.30.59] Successfully created [AutoSave] backup [2019-02-22 17.30.59 - auto.zip] requested by [MG-CEO:Carlos Pichardo].
+[2019-02-22 17.30.59] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-05-23 09.56.04 - auto.zip].
+[2019-02-22 17.30.59] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-05-23 09.56.04 - auto.zip] removed.
+[2019-11-11 14.34.36] Successfully created [Database Upgrade] backup [2019-11-11 14.34.36 - upgrade.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2019-11-11 14.34.36] Migrated iCDB content backup file [cdbback\2019-11-11 14.34.35-28704.zip] removed.
+[2019-11-11 14.34.36] Successfully created [AutoSave] backup [2019-11-11 14.34.36 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2019-11-11 14.34.36] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-12-27 13.55.20 - auto.zip].
+[2019-11-11 14.34.36] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-12-27 13.55.20 - auto.zip] removed.
+[2019-11-11 18.34.36] Successfully created [AutoSave] backup [2019-11-11 18.34.36 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2019-11-11 18.34.36] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-12-27 17.55.20 - auto.zip].
+[2019-11-11 18.34.36] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-12-27 17.55.20 - auto.zip] removed.
+[2020-02-03 21.06.18] Successfully created [AutoSave] backup [2020-02-03 21.06.18 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-03 21.06.18] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2019-02-22 17.30.59 - auto.zip].
+[2020-02-03 21.06.18] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2019-02-22 17.30.59 - auto.zip] removed.
+[2020-02-08 03.20.35] Successfully created [AutoSave] backup [2020-02-08 03.20.35 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-08 03.20.35] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2019-11-11 14.34.36 - auto.zip].
+[2020-02-08 03.20.35] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2019-11-11 14.34.36 - auto.zip] removed.
+[2020-02-12 02.00.19] Successfully created [AutoSave] backup [2020-02-12 02.00.19 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-12 02.00.19] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2019-11-11 18.34.36 - auto.zip].
+[2020-02-12 02.00.19] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2019-11-11 18.34.36 - auto.zip] removed.
+[2020-02-12 06.00.19] Successfully created [AutoSave] backup [2020-02-12 06.00.19 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-12 06.00.19] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-03 21.06.18 - auto.zip].
+[2020-02-12 06.00.19] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-03 21.06.18 - auto.zip] removed.
+[2020-02-12 12.43.59] Successfully created [AutoSave] backup [2020-02-12 12.43.59 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-12 12.43.59] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-08 03.20.35 - auto.zip].
+[2020-02-12 12.43.59] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-08 03.20.35 - auto.zip] removed.
+[2020-02-12 16.43.59] Successfully created [AutoSave] backup [2020-02-12 16.43.59 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-12 16.43.59] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-12 02.00.19 - auto.zip].
+[2020-02-12 16.43.59] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-12 02.00.19 - auto.zip] removed.
+[2020-02-14 00.58.13] Successfully created [AutoSave] backup [2020-02-14 00.58.12 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-14 00.58.13] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-12 06.00.19 - auto.zip].
+[2020-02-14 00.58.13] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-12 06.00.19 - auto.zip] removed.
+[2020-02-14 04.58.12] Successfully created [AutoSave] backup [2020-02-14 04.58.12 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-14 04.58.12] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-12 12.43.59 - auto.zip].
+[2020-02-14 04.58.12] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-12 12.43.59 - auto.zip] removed.
+[2020-02-21 13.28.05] Successfully created [AutoSave] backup [2020-02-21 13.28.04 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-21 13.28.05] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-12 16.43.59 - auto.zip].
+[2020-02-21 13.28.05] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-12 16.43.59 - auto.zip] removed.
+[2020-02-21 17.28.04] Successfully created [AutoSave] backup [2020-02-21 17.28.04 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-21 17.28.04] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-14 00.58.12 - auto.zip].
+[2020-02-21 17.28.04] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-14 00.58.12 - auto.zip] removed.
+[2020-02-21 21.28.04] Successfully created [AutoSave] backup [2020-02-21 21.28.04 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-21 21.28.04] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-14 04.58.12 - auto.zip].
+[2020-02-21 21.28.04] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-14 04.58.12 - auto.zip] removed.
+[2020-02-22 20.47.31] Successfully created [AutoSave] backup [2020-02-22 20.47.30 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-22 20.47.31] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-21 13.28.04 - auto.zip].
+[2020-02-22 20.47.31] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-21 13.28.04 - auto.zip] removed.
+[2020-02-23 00.47.30] Successfully created [AutoSave] backup [2020-02-23 00.47.30 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-23 00.47.30] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-21 17.28.04 - auto.zip].
+[2020-02-23 00.47.30] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-21 17.28.04 - auto.zip] removed.
+[2020-02-23 15.14.01] Successfully created [AutoSave] backup [2020-02-23 15.14.01 - auto.zip] requested by [MG-WORKSTATION1:Carlos Pichardo].
+[2020-02-23 15.14.01] Removing excessive [AutoSave] backup file [C:\Users\Carlos Pichardo\OneDrive\Proyectos Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-21 21.28.04 - auto.zip].
+[2020-02-23 15.14.01] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-21 21.28.04 - auto.zip] removed.
+[2020-03-14 17.09.59] Successfully created [AutoSave] backup [2020-03-14 17.09.58 - auto.zip] requested by [MG-CEO:Carlos Pichardo].
+[2020-03-14 17.09.59] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-22 20.47.30 - auto.zip].
+[2020-03-14 17.09.59] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-22 20.47.30 - auto.zip] removed.
+[2020-04-17 16.59.26] Successfully created [Database Upgrade] backup [2020-04-17 16.59.26 - upgrade.zip] requested by [MG-CEO:Carlos Pichardo].
+[2020-04-17 16.59.26] Migrated iCDB content backup file [cdbback\2020-04-17 16.59.25-5260.zip] removed.
+[2020-04-17 16.59.26] Successfully created [AutoSave] backup [2020-04-17 16.59.26 - auto.zip] requested by [MG-CEO:Carlos Pichardo].
+[2020-04-17 16.59.26] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-23 00.47.30 - auto.zip].
+[2020-04-17 16.59.26] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-23 00.47.30 - auto.zip] removed.
+[2020-04-17 16.59.55] Successfully created [Symbol Update] backup [2020-04-17 16.59.55 - symUpd.zip] requested by [MG-CEO:Carlos Pichardo].
+[2020-04-17 16.59.55] Removing excessive [Symbol Update] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 18.36.33 - symUpd.zip].
+[2020-04-17 16.59.55] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2018-04-15 18.36.33 - symUpd.zip] removed.
+[2020-04-17 20.59.26] Successfully created [AutoSave] backup [2020-04-17 20.59.26 - auto.zip] requested by [MG-CEO:Carlos Pichardo].
+[2020-04-17 20.59.26] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-02-23 15.14.01 - auto.zip].
+[2020-04-17 20.59.26] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-02-23 15.14.01 - auto.zip] removed.
+[2020-04-18 00.59.26] Successfully created [AutoSave] backup [2020-04-18 00.59.26 - auto.zip] requested by [MG-CEO:Carlos Pichardo].
+[2020-04-18 00.59.26] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-03-14 17.09.58 - auto.zip].
+[2020-04-18 00.59.26] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-03-14 17.09.58 - auto.zip] removed.
+[2020-04-20 20.08.18] Successfully created [AutoSave] backup [2020-04-20 20.08.18 - auto.zip] requested by [MG-CEO:Carlos Pichardo].
+[2020-04-20 20.08.18] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-04-17 16.59.26 - auto.zip].
+[2020-04-20 20.08.18] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-04-17 16.59.26 - auto.zip] removed.
+[2020-05-06 17.33.59] Successfully created [AutoSave] backup [2020-05-06 17.33.59 - auto.zip] requested by [MG-CEO:Carlos Pichardo].
+[2020-05-06 17.33.59] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-04-17 20.59.26 - auto.zip].
+[2020-05-06 17.33.59] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-04-17 20.59.26 - auto.zip] removed.
+[2020-05-06 21.33.59] Successfully created [AutoSave] backup [2020-05-06 21.33.59 - auto.zip] requested by [MG-CEO:Carlos Pichardo].
+[2020-05-06 21.33.59] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-04-18 00.59.26 - auto.zip].
+[2020-05-06 21.33.59] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-04-18 00.59.26 - auto.zip] removed.
+[2021-02-22 21.07.02] Successfully created [AutoSave] backup [2021-02-22 21.07.01 - auto.zip] requested by [MG-CEO:carlo].
+[2021-02-22 21.07.02] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-04-20 20.08.18 - auto.zip].
+[2021-02-22 21.07.02] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-04-20 20.08.18 - auto.zip] removed.
+[2021-02-23 12.31.03] Successfully created [AutoSave] backup [2021-02-23 12.31.02 - auto.zip] requested by [MG-CEO:carlo].
+[2021-02-23 12.31.03] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-05-06 17.33.59 - auto.zip].
+[2021-02-23 12.31.03] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-05-06 17.33.59 - auto.zip] removed.
+[2021-02-23 14.52.52] Successfully created [Symbol Update] backup [2021-02-23 14.52.52 - symUpd.zip] requested by [MG-CEO:carlo].
+[2021-02-23 14.52.52] Removing excessive [Symbol Update] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-04-17 16.59.55 - symUpd.zip].
+[2021-02-23 14.52.52] [Symbol Update] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-04-17 16.59.55 - symUpd.zip] removed.
+[2021-02-23 16.31.02] Successfully created [AutoSave] backup [2021-02-23 16.31.02 - auto.zip] requested by [MG-CEO:carlo].
+[2021-02-23 16.31.02] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-05-06 21.33.59 - auto.zip].
+[2021-02-23 16.31.02] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2020-05-06 21.33.59 - auto.zip] removed.
+[2021-03-01 19.02.55] Successfully created [AutoSave] backup [2021-03-01 19.02.54 - auto.zip] requested by [MG-CEO:carlo].
+[2021-03-01 19.02.55] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2021-02-22 21.07.01 - auto.zip].
+[2021-03-01 19.02.55] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2021-02-22 21.07.01 - auto.zip] removed.
+[2021-03-01 23.02.54] Successfully created [AutoSave] backup [2021-03-01 23.02.54 - auto.zip] requested by [MG-CEO:carlo].
+[2021-03-01 23.02.54] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2021-02-23 12.31.02 - auto.zip].
+[2021-03-01 23.02.54] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2021-02-23 12.31.02 - auto.zip] removed.
+[2021-03-08 18.15.53] Successfully created [AutoSave] backup [2021-03-08 18.15.53 - auto.zip] requested by [MG-CEO:carlo].
+[2021-03-08 18.15.53] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2021-02-23 16.31.02 - auto.zip].
+[2021-03-08 18.15.53] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2021-02-23 16.31.02 - auto.zip] removed.
+[2021-03-15 18.11.11] Successfully created [AutoSave] backup [2021-03-15 18.11.03 - auto.zip] requested by [MG-CEO:carlo].
+[2021-03-15 18.11.11] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2021-03-01 19.02.54 - auto.zip].
+[2021-03-15 18.11.11] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2021-03-01 19.02.54 - auto.zip] removed.
+[2021-03-16 17.11.08] Successfully created [AutoSave] backup [2021-03-16 17.11.07 - auto.zip] requested by [MG-CEO:carlo].
+[2021-03-16 17.11.08] Removing excessive [AutoSave] backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2021-03-01 23.02.54 - auto.zip].
+[2021-03-16 17.11.08] [AutoSave] backup file [Smart-HVAC_netlist\ProjectBackup\backups\2021-03-01 23.02.54 - auto.zip] removed.

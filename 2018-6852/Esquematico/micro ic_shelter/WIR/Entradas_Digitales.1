@@ -1,0 +1,282 @@
+| Wirelist created using version 6.1 
+V 6.1
+DW Entradas_Digitales
+|Q Display:LED_SMD_0805 1
+AS Display:LED_SMD_0805 REFDES=D?
+AS Display:LED_SMD_0805 DEVICE=LED_SMD_0805
+AS Display:LED_SMD_0805 PARTS=1
+AS Display:LED_SMD_0805 PKG_TYPE=LEDC2013X120N
+AS Display:LED_SMD_0805 ESCPartNumber
+AS Display:LED_SMD_0805 ESFPartNumber
+AS Display:LED_SMD_0805 Manufacturer=Generic
+AS Display:LED_SMD_0805 PART_NUMBER=LED_SMD_0805
+AS Display:LED_SMD_0805 INOV_VER_REC=2:22:15_10-13-20
+AS Display:LED_SMD_0805 PINORDER=1 2
+AP Display:LED_SMD_0805 1 #=1
+AP Display:LED_SMD_0805 1 PINTYPE=IN
+AP Display:LED_SMD_0805 2 #=2
+AP Display:LED_SMD_0805 2 PINTYPE=IN
+|Q Resistor:Resistor_0805 1
+AS Resistor:Resistor_0805 DEVICE=RES_SMD_0805
+AS Resistor:Resistor_0805 PKG_TYPE=RES_SMD_0805
+AS Resistor:Resistor_0805 VALUE
+AS Resistor:Resistor_0805 Datasheet
+AS Resistor:Resistor_0805 PARTS=1
+AS Resistor:Resistor_0805 Manufacturer
+AS Resistor:Resistor_0805 PINSWAP=B1,B2
+AS Resistor:Resistor_0805 DESCRIPTION
+AS Resistor:Resistor_0805 REFDES=R?
+AS Resistor:Resistor_0805 CLASS=RES
+AS Resistor:Resistor_0805 PART_NUMBER
+AS Resistor:Resistor_0805 TOLERANCE
+AS Resistor:Resistor_0805 INOV_VER_REC=22:36:22_4-15-18
+AS Resistor:Resistor_0805 PINORDER=B1 B2
+AP Resistor:Resistor_0805 1 #=1
+AP Resistor:Resistor_0805 1 PINTYPE=ANALOG
+AP Resistor:Resistor_0805 2 #=2
+AP Resistor:Resistor_0805 2 PINTYPE=ANALOG
+|Q Optoelectronics:FODM2705 1
+AS Optoelectronics:FODM2705 REFDES=U?
+AS Optoelectronics:FODM2705 DEVICE=FODM2705
+AS Optoelectronics:FODM2705 PKG_TYPE=SOIC254P700X220-4N
+AS Optoelectronics:FODM2705 DESCRIPTION=OPTOISOLATOR,TRANSISTOROUTPUT
+AS Optoelectronics:FODM2705 Cost
+AS Optoelectronics:FODM2705 PART_NUMBER=FODM2705
+AS Optoelectronics:FODM2705 Mfr_Name=FAIRCHILD
+AS Optoelectronics:FODM2705 INOV_VER_REC=10:26:18_4-11-14
+AS Optoelectronics:FODM2705 PINORDER=ANODE CATODE COLLECTOR EMITTER
+AP Optoelectronics:FODM2705 1 #=1
+AP Optoelectronics:FODM2705 1 PINTYPE=ANALOG
+AP Optoelectronics:FODM2705 2 #=2
+AP Optoelectronics:FODM2705 2 PINTYPE=ANALOG
+AP Optoelectronics:FODM2705 3 #=4
+AP Optoelectronics:FODM2705 3 PINTYPE=ANALOG
+AP Optoelectronics:FODM2705 4 #=3
+AP Optoelectronics:FODM2705 4 PINTYPE=ANALOG
+|Q Capacitor:Capacitor_0805 1
+AS Capacitor:Capacitor_0805 REFDES=C?
+AS Capacitor:Capacitor_0805 DEVICE=CAPACITOR_0805
+AS Capacitor:Capacitor_0805 PKG_TYPE=CAP_SMD_0805
+AS Capacitor:Capacitor_0805 VALUE
+AS Capacitor:Capacitor_0805 Manufacturer
+AS Capacitor:Capacitor_0805 DESCRIPTION
+AS Capacitor:Capacitor_0805 PART_NUMBER
+AS Capacitor:Capacitor_0805 VOLTAGE
+AS Capacitor:Capacitor_0805 INOV_VER_REC=1:50:57_2-12-21
+AS Capacitor:Capacitor_0805 PINORDER=B1 B2
+AP Capacitor:Capacitor_0805 1 #=1
+AP Capacitor:Capacitor_0805 1 PINTYPE=ANALOG
+AP Capacitor:Capacitor_0805 2 #=2
+AP Capacitor:Capacitor_0805 2 PINTYPE=ANALOG
+|Q Display:LED_SMD_RED 1
+AS Display:LED_SMD_RED Cost
+AS Display:LED_SMD_RED Description=LEDLite-ONSMDRED
+AS Display:LED_SMD_RED PKG_TYPE=LEDC3216X110N
+AS Display:LED_SMD_RED DEVICE=LED_SMD_RED
+AS Display:LED_SMD_RED REFDES=D?
+AS Display:LED_SMD_RED PART_NUMBER=LTST-C230EKT
+AS Display:LED_SMD_RED LEVEL=STD
+AS Display:LED_SMD_RED INOV_VER_REC=17:52:24_11-17-14
+AS Display:LED_SMD_RED PINORDER=A C
+AP Display:LED_SMD_RED 1 #=2
+AP Display:LED_SMD_RED 1 PINTYPE=ANALOG
+AP Display:LED_SMD_RED 2 #=1
+AP Display:LED_SMD_RED 2 PINTYPE=ANALOG
+AS Builtin:bi_hier INOV_VER_REC=15:07:4_11-3-14
+AS Builtin:bi_hier PINORDER=IN
+AP Builtin:bi_hier 1 PINTYPE=IN
+AP Builtin:bi_hier 1 XREF=
+AS Builtin:out_hier INOV_VER_REC=11:21:37_10-30-14
+AS Builtin:out_hier PINORDER=IN
+AP Builtin:out_hier 1 PINTYPE=IN
+AP Builtin:out_hier 1 XREF=
+G +12V
+G +5.0V
+G AGND
+G GND
+G VDD
+M Display:LED_SMD_0805 $1I397
+I $1I397 Display:LED_SMD_0805 1N_MICRO $1N14 REFDES=D7`
+|R 2:22:15_10-13-20
+API $1I397 Display:LED_SMD_0805 1 #=1
+API $1I397 Display:LED_SMD_0805 2 #=2
+M Display:LED_SMD_0805 $1I401
+I $1I401 Display:LED_SMD_0805 2N_MICRO $1N75 REFDES=D8`
+|R 2:22:15_10-13-20
+API $1I401 Display:LED_SMD_0805 1 #=1
+API $1I401 Display:LED_SMD_0805 2 #=2
+M Display:LED_SMD_0805 $1I409
+I $1I409 Display:LED_SMD_0805 3N_MICRO $1N136 REFDES=D5`
+|R 2:22:15_10-13-20
+API $1I409 Display:LED_SMD_0805 1 #=1
+API $1I409 Display:LED_SMD_0805 2 #=2
+M Resistor:Resistor_0805 $1I22
+I $1I22 Resistor:Resistor_0805 +5.0V 1N_MICRO PART_NUMBER=0805-10K`VALUE=10K`REFDES=R7`
+|R 22:36:22_4-15-18
+API $1I22 Resistor:Resistor_0805 1 #=1
+API $1I22 Resistor:Resistor_0805 2 #=2
+M Optoelectronics:FODM2705 $1I21
+I $1I21 Optoelectronics:FODM2705 $1N19 1N1+ 1N_MICRO GND REFDES=U3`PART_NUMBER=FODM2705`
+|R 10:26:18_4-11-14
+API $1I21 Optoelectronics:FODM2705 1 #=1
+API $1I21 Optoelectronics:FODM2705 2 #=2
+API $1I21 Optoelectronics:FODM2705 3 #=4
+API $1I21 Optoelectronics:FODM2705 4 #=3
+M Resistor:Resistor_0805 $1I25
+I $1I25 Resistor:Resistor_0805 +5.0V $1N14 VALUE=470`REFDES=R8`PART_NUMBER=0805-470`
+|R 22:36:22_4-15-18
+API $1I25 Resistor:Resistor_0805 1 #=1
+API $1I25 Resistor:Resistor_0805 2 #=2
+M Resistor:Resistor_0805 $1I28
+I $1I28 Resistor:Resistor_0805 1N1- AGND VALUE=10`REFDES=R5`PART_NUMBER=0805-10`
+|R 22:36:22_4-15-18
+API $1I28 Resistor:Resistor_0805 1 #=1
+API $1I28 Resistor:Resistor_0805 2 #=2
+M Resistor:Resistor_0805 $1I30
+I $1I30 Resistor:Resistor_0805 VDD $1N19 VALUE=330`PART_NUMBER=0805-330`REFDES=R6`
+|R 22:36:22_4-15-18
+API $1I30 Resistor:Resistor_0805 1 #=1
+API $1I30 Resistor:Resistor_0805 2 #=2
+M Capacitor:Capacitor_0805 $1I23
+I $1I23 Capacitor:Capacitor_0805 1N_MICRO GND PART_NUMBER=CAP-0805-0.1uF`VALUE=0.1uF`REFDES=C5`
+|R 1:50:57_2-12-21
+API $1I23 Capacitor:Capacitor_0805 1 #=1
+API $1I23 Capacitor:Capacitor_0805 2 #=2
+M Resistor:Resistor_0805 $1I91
+I $1I91 Resistor:Resistor_0805 VDD $1N80 VALUE=330`PART_NUMBER=0805-330`REFDES=R10`
+|R 22:36:22_4-15-18
+API $1I91 Resistor:Resistor_0805 1 #=1
+API $1I91 Resistor:Resistor_0805 2 #=2
+M Resistor:Resistor_0805 $1I89
+I $1I89 Resistor:Resistor_0805 1N2- AGND VALUE=10`REFDES=R9`PART_NUMBER=0805-10`
+|R 22:36:22_4-15-18
+API $1I89 Resistor:Resistor_0805 1 #=1
+API $1I89 Resistor:Resistor_0805 2 #=2
+M Resistor:Resistor_0805 $1I86
+I $1I86 Resistor:Resistor_0805 +5.0V $1N75 VALUE=470`REFDES=R12`PART_NUMBER=0805-470`
+|R 22:36:22_4-15-18
+API $1I86 Resistor:Resistor_0805 1 #=1
+API $1I86 Resistor:Resistor_0805 2 #=2
+M Optoelectronics:FODM2705 $1I82
+I $1I82 Optoelectronics:FODM2705 $1N80 1N2+ 2N_MICRO GND REFDES=U4`PART_NUMBER=FODM2705`
+|R 10:26:18_4-11-14
+API $1I82 Optoelectronics:FODM2705 1 #=1
+API $1I82 Optoelectronics:FODM2705 2 #=2
+API $1I82 Optoelectronics:FODM2705 3 #=4
+API $1I82 Optoelectronics:FODM2705 4 #=3
+M Resistor:Resistor_0805 $1I83
+I $1I83 Resistor:Resistor_0805 +5.0V 2N_MICRO PART_NUMBER=0805-10K`VALUE=10K`REFDES=R11`
+|R 22:36:22_4-15-18
+API $1I83 Resistor:Resistor_0805 1 #=1
+API $1I83 Resistor:Resistor_0805 2 #=2
+M Capacitor:Capacitor_0805 $1I84
+I $1I84 Capacitor:Capacitor_0805 2N_MICRO GND PART_NUMBER=CAP-0805-0.1uF`VALUE=0.1uF`REFDES=C6`
+|R 1:50:57_2-12-21
+API $1I84 Capacitor:Capacitor_0805 1 #=1
+API $1I84 Capacitor:Capacitor_0805 2 #=2
+M Capacitor:Capacitor_0805 $1I145
+I $1I145 Capacitor:Capacitor_0805 3N_MICRO GND PART_NUMBER=CAP-0805-0.1uF`VALUE=0.1uF`REFDES=C7`
+|R 1:50:57_2-12-21
+API $1I145 Capacitor:Capacitor_0805 1 #=1
+API $1I145 Capacitor:Capacitor_0805 2 #=2
+M Optoelectronics:FODM2705 $1I143
+I $1I143 Optoelectronics:FODM2705 $1N141 1N3+ 3N_MICRO GND REFDES=U5`PART_NUMBER=FODM2705`
+|R 10:26:18_4-11-14
+API $1I143 Optoelectronics:FODM2705 1 #=1
+API $1I143 Optoelectronics:FODM2705 2 #=2
+API $1I143 Optoelectronics:FODM2705 3 #=4
+API $1I143 Optoelectronics:FODM2705 4 #=3
+M Resistor:Resistor_0805 $1I144
+I $1I144 Resistor:Resistor_0805 +5.0V 3N_MICRO PART_NUMBER=0805-10K`VALUE=10K`REFDES=R15`
+|R 22:36:22_4-15-18
+API $1I144 Resistor:Resistor_0805 1 #=1
+API $1I144 Resistor:Resistor_0805 2 #=2
+M Resistor:Resistor_0805 $1I147
+I $1I147 Resistor:Resistor_0805 +5.0V $1N136 VALUE=470`REFDES=R16`PART_NUMBER=0805-470`
+|R 22:36:22_4-15-18
+API $1I147 Resistor:Resistor_0805 1 #=1
+API $1I147 Resistor:Resistor_0805 2 #=2
+M Resistor:Resistor_0805 $1I150
+I $1I150 Resistor:Resistor_0805 1N3- AGND VALUE=10`REFDES=R14`PART_NUMBER=0805-10`
+|R 22:36:22_4-15-18
+API $1I150 Resistor:Resistor_0805 1 #=1
+API $1I150 Resistor:Resistor_0805 2 #=2
+M Resistor:Resistor_0805 $1I152
+I $1I152 Resistor:Resistor_0805 VDD $1N141 VALUE=330`PART_NUMBER=0805-330`REFDES=R13`
+|R 22:36:22_4-15-18
+API $1I152 Resistor:Resistor_0805 1 #=1
+API $1I152 Resistor:Resistor_0805 2 #=2
+M Resistor:Resistor_0805 $1I211
+I $1I211 Resistor:Resistor_0805 1N4- AGND VALUE=10`REFDES=R53`PART_NUMBER=0805-10`
+|R 22:36:22_4-15-18
+API $1I211 Resistor:Resistor_0805 1 #=1
+API $1I211 Resistor:Resistor_0805 2 #=2
+M Display:LED_SMD_RED $1I203
+I $1I203 Display:LED_SMD_RED $1N197 4N_MICRO REFDES=D6`
+|R 17:52:24_11-17-14
+API $1I203 Display:LED_SMD_RED 1 #=2
+API $1I203 Display:LED_SMD_RED 2 #=1
+M Capacitor:Capacitor_0805 $1I206
+I $1I206 Capacitor:Capacitor_0805 4N_MICRO GND PART_NUMBER=CAP-0805-0.1uF`VALUE=0.1uF`REFDES=C8`
+|R 1:50:57_2-12-21
+API $1I206 Capacitor:Capacitor_0805 1 #=1
+API $1I206 Capacitor:Capacitor_0805 2 #=2
+M Optoelectronics:FODM2705 $1I204
+I $1I204 Optoelectronics:FODM2705 $1N202 1N4+ 4N_MICRO GND REFDES=U6`PART_NUMBER=FODM2705`
+|R 10:26:18_4-11-14
+API $1I204 Optoelectronics:FODM2705 1 #=1
+API $1I204 Optoelectronics:FODM2705 2 #=2
+API $1I204 Optoelectronics:FODM2705 3 #=4
+API $1I204 Optoelectronics:FODM2705 4 #=3
+M Resistor:Resistor_0805 $1I208
+I $1I208 Resistor:Resistor_0805 +5.0V $1N197 VALUE=470`REFDES=R19`PART_NUMBER=0805-470`
+|R 22:36:22_4-15-18
+API $1I208 Resistor:Resistor_0805 1 #=1
+API $1I208 Resistor:Resistor_0805 2 #=2
+M Resistor:Resistor_0805 $1I205
+I $1I205 Resistor:Resistor_0805 +5.0V 4N_MICRO PART_NUMBER=0805-10K`VALUE=10K`REFDES=R18`
+|R 22:36:22_4-15-18
+API $1I205 Resistor:Resistor_0805 1 #=1
+API $1I205 Resistor:Resistor_0805 2 #=2
+M Resistor:Resistor_0805 $1I213
+I $1I213 Resistor:Resistor_0805 VDD $1N202 VALUE=330`PART_NUMBER=0805-330`REFDES=R17`
+|R 22:36:22_4-15-18
+API $1I213 Resistor:Resistor_0805 1 #=1
+API $1I213 Resistor:Resistor_0805 2 #=2
+P Builtin:bi_hier 1N4-
+I 1N4- Builtin:bi_hier 1N4- 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N4+
+I 1N4+ Builtin:bi_hier 1N4+ 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N1-
+I 1N1- Builtin:bi_hier 1N1- 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N3+
+I 1N3+ Builtin:bi_hier 1N3+ 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N2+
+I 1N2+ Builtin:bi_hier 1N2+ 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N1+
+I 1N1+ Builtin:bi_hier 1N1+ 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N2-
+I 1N2- Builtin:bi_hier 1N2- 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N3-
+I 1N3- Builtin:bi_hier 1N3- 
+|R 15:07:4_11-3-14
+P Builtin:out_hier 4N_MICRO
+I 4N_MICRO Builtin:out_hier 4N_MICRO 
+|R 11:21:37_10-30-14
+P Builtin:out_hier 2N_MICRO
+I 2N_MICRO Builtin:out_hier 2N_MICRO 
+|R 11:21:37_10-30-14
+P Builtin:out_hier 1N_MICRO
+I 1N_MICRO Builtin:out_hier 1N_MICRO 
+|R 11:21:37_10-30-14
+P Builtin:out_hier 3N_MICRO
+I 3N_MICRO Builtin:out_hier 3N_MICRO 
+|R 11:21:37_10-30-14
+EW

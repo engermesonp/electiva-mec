@@ -1,0 +1,110 @@
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [47.5 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-15 17.01.42 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [47.8 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-15 21.01.42 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [51.5 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-22 16.42.10 - auto.zip]
+Bus Contents file doesn't exist. Update cannot be performed.
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [68.3 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-22 20.42.10 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [74.2 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-26 23.18.02 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [102.6 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-27 03.18.02 - auto.zip]
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [108.7 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-27 03.36.00 - symUpd.zip]
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [117.0 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-27 04.06.31 - symUpd.zip]
+ICDB server [info]: [AutoSave] backup of size [120.6 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-27 19.13.20 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [216.0 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-27 23.13.20 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [223.5 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-28 16.22.46 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [272.1 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-28 20.22.46 - auto.zip]
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [272.6 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-28 20.24.32 - symUpd.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [283.9 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 00.32.15 - symUpd.zip]
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [289.0 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 00.47.12 - symUpd.zip]
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [304.0 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 02.48.43 - symUpd.zip]
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [306.0 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 02.55.01 - symUpd.zip]
+ICDB server [info]: [AutoSave] backup of size [308.1 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 16.00.03 - auto.zip]
+ICDB server [info]: Starting [SymbolUpdate] backup process
+ICDB server [info]: [Symbol Update] backup of size [318.3 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 18.14.21 - symUpd.zip]
+Properties> Illegal property value, the regular expression for this property value is: (\u|\d|-|_|,|\?)*
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [319.5 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 20.00.03 - auto.zip]
+Loading IPL... c:/mentorgraphics/padsvx.2.7/sdd_home/standard/templates/dxdesigner/netlist\PartsListerDefaults.ipl
+IPL load successful.
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [321.9 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-30 00.00.03 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: Got a message: WM_ENDSESSION<!#!><severity>3</severity>
+ICDB server [info]: [AutoSave] backup of size [329.3 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-30 13.54.49 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [312.8 kB] created successfully in location [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-04-03 14.58.03 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [326.8 kB] created successfully in location [C:\Users\abrah\Desktop\fox-cr7-erick-d-master\Esquematico\p1\ProjectBackup\backups\2021-04-05 16.52.00 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [343.6 kB] created successfully in location [C:\Users\abrah\Desktop\Fox\Esquematico\Primera version\ProjectBackup\backups\2021-04-08 18.13.13 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [344.8 kB] created successfully in location [C:\Users\abrah\Desktop\Fox\Esquematico\Primera version\ProjectBackup\backups\2021-04-08 22.13.13 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: [AutoSave] backup of size [348.1 kB] created successfully in location [C:\Users\abrah\Desktop\Fox\Esquematico\Primera version\ProjectBackup\backups\2021-04-12 07.05.53 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [349.0 kB] created successfully in location [C:\Users\abrah\Desktop\Fox\Esquematico\Primera version\ProjectBackup\backups\2021-04-12 11.05.53 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [346.8 kB] created successfully in location [C:\Users\abrah\Desktop\Fox\Esquematico\Primera version\ProjectBackup\backups\2021-04-12 15.05.53 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: [AutoSave] backup of size [347.3 kB] created successfully in location [C:\Users\enger\Desktop\Proyecto Karlos\Proyecto Karlos\20174425\Esquematico\Primera version\ProjectBackup\backups\2021-10-31 17.18.02 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+Properties> Can't open project database:Client is not connected to the server
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: [AutoSave] backup of size [317.3 kB] created successfully in location [C:\Users\enger\Desktop\Proyecto Karlos\Proyecto Karlos\20174425\Esquematico\Primera version\ProjectBackup\backups\2021-11-08 22.42.12 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [309.5 kB] created successfully in location [C:\Users\enger\Desktop\Proyecto Karlos\Proyecto Karlos\20174425\Esquematico\Primera version\ProjectBackup\backups\2021-11-09 21.13.55 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [310.1 kB] created successfully in location [C:\Users\enger\Desktop\Proyecto Karlos\Proyecto Karlos\20174425\Esquematico\Primera version\ProjectBackup\backups\2021-11-10 21.28.02 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [310.4 kB] created successfully in location [C:\Users\enger\Desktop\diseño mecatronico\data\2018-6852\Esquematico\micro ic_shelter\ProjectBackup\backups\2021-11-13 13.11.20 - auto.zip]

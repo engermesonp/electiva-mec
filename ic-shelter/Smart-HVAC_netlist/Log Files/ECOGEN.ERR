@@ -1,0 +1,19 @@
+PADS Layout ECO Generator (Version 6.4v) 3/15/2021 7:18:49 PM
+Restricted Copyright Siemens 2020. All Rights Reserved
+Command line arguments:  -e C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\Log Files\ECOGEN.ERR -r p -a PCB,PART,NET,PIN -f -l PCB,NET,NETCLASS,GEN,DFP
+1 msec
+1 msec
+Reading the OLD DESIGN
+There are 0 parts in the design
+There are 0 signals in the design
+There are 0 pins in the design
+2 msec
+Reading the NEW DESIGN
+There are 129 parts in the design
+There are 103 signals in the design
+There are 384 pins in the design
+3 msec
+Final cost=14400
+Partitioning - 0 msec
+Final Matching - 1 msec
+Deleted pins: 0,  Added pins: 384

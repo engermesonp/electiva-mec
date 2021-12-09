@@ -1,0 +1,193 @@
+[2021.02.22 21:06:57] [0000m.00s.119ms] [0] WELCOME
+[2021.02.22 21:06:57] [0000m.00s.121ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.02.22 21:06:57] [0000m.00s.121ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.02.22 21:06:57] [0000m.00s.121ms] [1] Base flow version [VX.2.7]
+[2021.02.22 21:06:57] [0000m.00s.121ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.02.22 21:06:57] [0000m.00s.121ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.02.22 21:06:57] [0000m.00s.143ms] [1] Machine [MG-CEO]  IP [127.0.0.1,169.254.80.80,172.30.208.1,192.168.10.139,192.168.166.1,192.168.19.1]  User [carlo]  PID [28604]
+[2021.02.22 21:06:57] [0000m.00s.143ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 19042)]
+[2021.02.22 21:06:57] [0000m.00s.143ms] [1] Current working dir [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist]
+[2021.02.22 21:06:57] [0000m.00s.143ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\nodejs\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Cadence\SPB_17.4\tools\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\carlo\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\CAMCAD;C:\Users\carlo\AppData\Roaming\npm;C:\Users\carlo\.dotnet\tools;C:\Users\carlo\AppData\Local\Programs\Microsoft VS Code\bin]
+[2021.02.22 21:06:57] [0000m.00s.143ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.02.22 21:06:57] [0000m.00s.143ms] [1] SDD_PLATFORM [win32]
+[2021.02.22 21:06:57] [0000m.00s.143ms] [1] WDIR [C:\DATA\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.02.22 21:06:57] [0000m.00s.143ms] [1] Local iCDB working dir [C:\DATA\PADS Projects\iCDB] on file system [NTFS]
+[2021.02.22 21:06:57] [0000m.00s.145ms] [2] S: Loading config files
+[2021.02.22 21:06:57] [0000m.00s.179ms] [1] Config file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\database\cdbsvr\Server.cfg] not found
+[2021.02.22 21:06:57] [0000m.00s.183ms] [3] S: Config loaded
+[2021.02.22 21:06:57] [0000m.00s.191ms] [0] S: Project path [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\database] on file system [NTFS]
+[2021.02.22 21:06:57] [0000m.00s.191ms] [0] S: Project file (.prj) path [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\Smart-HVAC_netlist.prj] on file system [NTFS]
+[2021.02.22 21:06:57] [0000m.00s.192ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.02.22 21:06:57] [0000m.00s.192ms] [0] S: Single-user mode (auto)
+[2021.02.22 21:06:57] [0000m.00s.192ms] [0] S: Event polling mode autodetection
+[2021.02.22 21:06:57] [0000m.00s.194ms] [0] S: Started up automatically by iCDB Client: MG-CEO:carlo:24208
+[2021.02.22 21:06:57] [0000m.00s.194ms] [0] S: Auto close mode
+[2021.02.22 21:06:57] [0000m.00s.194ms] [0] S: Database ID [24fd-d73d-e044-a7ed-0355-4306-3554-3060-ffcb-5525-30fb-b391]
+[2021.02.22 21:06:57] [0000m.00s.194ms] [0] PathTranslator: BEGIN dumping
+[2021.02.22 21:06:57] [0000m.00s.195ms] [0] PathTranslator: Local -> global path prefix list
+[2021.02.22 21:06:57] [0000m.00s.195ms] [0] PathTranslator: Global -> local path prefix list
+[2021.02.22 21:06:57] [0000m.00s.195ms] [0] PathTranslator: END dumping
+[2021.02.22 21:06:57] [0000m.00s.195ms] [0] S: START
+[2021.02.22 21:06:57] [0000m.00s.196ms] [0] S: Server startup lock file created
+[2021.02.22 21:06:57] [0000m.00s.198ms] [0] S: Listening for client connections on port [10002]
+[2021.02.22 21:06:59] [0000m.02s.547ms] [0] S: Server network ID [MG-CEO:mc,mc.corel.com:10002]
+[2021.02.22 21:06:59] [0000m.02s.547ms] [0] S: Server GUID [9f71-7bfd-fe03-4b10-1355-4307-3554-3060-357f-5525-30fb-b391]
+[2021.02.22 21:06:59] [0000m.02s.547ms] [0] S: Project GUID [24fd-d73d-e044-a7ed-0355-4306-3554-3060-ffcb-5525-30fb-b391]
+[2021.02.22 21:06:59] [0000m.02s.562ms] [0] S: Wrote data to server address file
+[2021.02.22 21:06:59] [0000m.02s.562ms] [0] S: Server startup lock file removed
+[2021.02.22 21:06:59] [0000m.02s.565ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\Smart-HVAC_netlist.prj]
+[2021.02.22 21:07:00] [0000m.03s.800ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.02.22 21:07:00] [0000m.03s.800ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.02.22 21:07:00] [0000m.03s.801ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.02.22 21:07:00] [0000m.03s.802ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.02.22 21:07:00] [0000m.03s.803ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.02.22 21:07:00] [0000m.03s.803ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.02.22 21:07:00] [0000m.03s.803ms] [0] S: Local disc access time: 53 us
+[2021.02.22 21:07:00] [0000m.03s.803ms] [0] S: File server access time: 61 us
+[2021.02.22 21:07:00] [0000m.03s.832ms] [0] Single file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\database\icdb.dat] size [271360 (265.0 kB)]
+[2021.02.22 21:07:00] [0000m.03s.832ms] [1] Single file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\database\icdb.dat] opened in read-write mode
+[2021.02.22 21:07:00] [0000m.03s.832ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.02.22 21:07:00] [0000m.03s.833ms] [0] Database GUARD OK: [271360]
+[2021.02.22 21:07:00] [0000m.03s.842ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.02.22 21:07:00] [0000m.03s.842ms] [0] Database GUARD OK: [271360]
+[2021.02.22 21:07:00] [0000m.03s.842ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.02.22 21:07:00] [0000m.03s.842ms] [0] Database GUARD OK: [271360]
+[2021.02.22 21:07:00] [0000m.03s.842ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.02.22 21:07:00] [0000m.03s.844ms] [0] Database GUARD OK: [271360]
+[2021.02.22 21:07:00] [0000m.03s.885ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.02.22 21:07:00] [0000m.03s.885ms] [0] Database GUARD OK: [271360]
+[2021.02.22 21:07:00] [0000m.03s.886ms] [0] SingleFile: [171f-7068-5684-9bdf] SFI version check [1009] [1009]
+[2021.02.22 21:07:01] [0000m.03s.895ms] [0] SingleFile: [171f-7068-5684-9bdf] Database SFI header has been read in [10ms 220us]
+[2021.02.22 21:07:01] [0000m.03s.907ms] [0] iCDB Server PI: Server & plugin session [500]
+[2021.02.22 21:07:01] [0000m.03s.907ms] [0] iCDB Server PI: Opening database [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\database]
+[2021.02.22 21:07:01] [0000m.03s.907ms] [0] iCDB Server PI: Database [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\database] opened
+[2021.02.22 21:07:01] [0000m.04s.045ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.02.22 21:07:01] [0000m.04s.045ms] [0] iCDB Database: Checking constraint definitions version
+[2021.02.22 21:07:01] [0000m.04s.114ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.02.22 21:07:01] [0000m.04s.297ms] [0] iCDB Server PI: Initializing plugins
+[2021.02.22 21:07:01] [0000m.04s.300ms] [0] iCDB Server PI: Plugins initialized
+[2021.02.22 21:07:01] [0000m.04s.301ms] [0] S: iCDB database loaded
+[2021.02.22 21:07:01] [0000m.04s.305ms] [0] S: Starting threads
+[2021.02.22 21:07:01] [0000m.04s.306ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.02.22 21:07:01] [0000m.04s.306ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.02.22 21:07:01] [0000m.04s.311ms] [0] IT: Session [501] for host [MG-CEO] user [carlo] client type[0] clsvrPluginID[0] with process ID [24208] created
+[2021.02.22 21:07:01] [0000m.04s.316ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.02.22 21:07:01] [0000m.04s.334ms] [1] SC[501]: Registered sub-client [DxD] with ID [1] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:01] [0000m.04s.407ms] [1] CMT: There are [1] clients now: 501
+[2021.02.22 21:07:01] [0000m.04s.618ms] [1] SC[501]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:01] [0000m.04s.703ms] [1] SC[501]: Registered sub-client [SymbolEditor] with ID [3] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:01] [0000m.04s.719ms] [1] SC[501]: Registered sub-client [SelectionHolder] with ID [4] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:01] [0000m.04s.868ms] [1] SC[501]: Registered sub-client [Core::DesignListener-306626432-0] with ID [5] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:01] [0000m.04s.888ms] [1] SC[501]: Registered sub-client [BlockCacheDxD:306626384] with ID [6] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:02] [0000m.04s.896ms] [1] SC[501]: Registered sub-client [Core::NetFlatData-8136] with ID [7] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:02] [0000m.04s.944ms] [1] SC[501]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:02] [0000m.04s.958ms] [1] SC[501]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:02] [0000m.04s.964ms] [1] SC[501]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:02] [0000m.05s.076ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2021-02-22 21.07.01 - auto.zip] with GUID [da75-bdbc-71cf-09c2-5355-430b-3554-3060-767f-5525-30fb-b391]
+[2021.02.22 21:07:02] [0000m.05s.087ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[fd74-fb1d-dcee-72fe-2793-e9e7-793e-9e50-86a0-d5d5-73a1-fcbb] CreationTime[Tuesday, April 21, 2020 00:08:18] Type[Autosave] Creator[iCDB Server (2020-04-20 20.08.17-17832)] ApplicationName[iCDB Server (2020-04-20 20.08.17-17832)] UserName[Carlos Pichardo] MachineName[MG-CEO] Description[Autosave] FullFlowName[PADS VX.2.7] FlowId[PADSVX.2.7] GBSInstallId[2119024] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-04-20 20.08.18 - auto.zip] BackupFileSize[345127] Persistent[FALSE]
+[2021.02.22 21:07:02] [0000m.05s.107ms] [0] PrjBackupMgr: Project Backup file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2020-04-20 20.08.18 - auto.zip] with GUID [fd74-fb1d-dcee-72fe-2793-e9e7-793e-9e50-86a0-d5d5-73a1-fcbb] removed
+[2021.02.22 21:07:02] [0000m.05s.110ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[da75-bdbc-71cf-09c2-5355-430b-3554-3060-767f-5525-30fb-b391] CreationTime[Tuesday, February 23, 2021 01:07:01] Type[Autosave] Creator[iCDB Server (2021-02-22 21.06.57-28604)] ApplicationName[iCDB Server (2021-02-22 21.06.57-28604)] UserName[carlo] MachineName[MG-CEO] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\ProjectBackup\backups\2021-02-22 21.07.01 - auto.zip] BackupFileSize[341812] Persistent[FALSE]
+[2021.02.22 21:07:08] [0000m.11s.122ms] [1] SC[501]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:08] [0000m.11s.137ms] [1] SC[501]: Registered sub-client [HdlProject] with ID [11] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:08] [0000m.11s.156ms] [1] SC[501]: Registered sub-client [Navigator] with ID [12] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:08] [0000m.11s.191ms] [1] SC[501]: Registered sub-client [OutputWindow] with ID [13] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:08] [0000m.11s.201ms] [1] SC[501]: Registered sub-client [PlaceDevice] with ID [14] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:09] [0000m.12s.324ms] [1] SC[501]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:09] [0000m.12s.333ms] [1] SC[501]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:12] [0000m.15s.236ms] [1] SC[501]: Registered sub-client [FFSSelListener] with ID [17] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:12] [0000m.15s.241ms] [1] SC[501]: Registered sub-client [SAE] with ID [18] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:12] [0000m.15s.267ms] [1] SC[501]: Registered sub-client [DxConstraints] with ID [19] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:12] [0000m.15s.274ms] [1] SC[501]: Registered sub-client [CCZAddin] with ID [20] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:12] [0000m.15s.282ms] [1] SC[501]: Registered sub-client [DxThumbnails] with ID [21] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:12] [0000m.15s.289ms] [1] SC[501]: Registered sub-client [MyParts] with ID [22] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:12] [0000m.15s.344ms] [1] SC[501]: Registered sub-client [PinsList] with ID [23] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:13] [0000m.16s.050ms] [1] SC[501]: Registered sub-client [toolboxes] with ID [24] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:13] [0000m.16s.804ms] [1] SC[501]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:13] [0000m.16s.814ms] [1] SC[501]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:660754016] with ID [26] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:14] [0000m.16s.977ms] [1] SC[501]: Registered sub-client [SheetConnectorsCacheDxD:1614042434] with ID [27] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:14] [0000m.17s.091ms] [1] SC[501]: Registered sub-client [NetsNamesCollectorDxD:1614042434] with ID [28] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:14] [0000m.17s.333ms] [1] SC[501]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:14] [0000m.17s.340ms] [1] SC[501]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:14] [0000m.17s.371ms] [1] SC[501]: Registered sub-client [xprob] with ID [31] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:14] [0000m.17s.549ms] [1] SC[501]: Registered sub-client [StartServerClient2260] with ID [32] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:14] [0000m.17s.550ms] [1] SC[501]: UnRegistered sub-client [StartServerClient2260] with ID [32] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:18] [0000m.21s.762ms] [1] SC[501]: Registered sub-client [ObjectHolder_721922104] with ID [33] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:18] [0000m.21s.770ms] [1] SC[501]: Registered sub-client [BlockCacheDxD:721466232] with ID [34] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:18] [0000m.21s.777ms] [1] SC[501]: Registered sub-client [GlobalNetAliasUpdater_721925328] with ID [35] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:18] [0000m.21s.787ms] [1] SC[501]: Registered sub-client [IcdbNetProcessorSubClientDxD:721495664] with ID [36] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:07:22] [0000m.25s.210ms] [0] DFAMT: File server access time: 94 us
+[2021.02.22 21:07:23] [0000m.25s.951ms] [1] SC[501]: Registered sub-client [DxDbSearch] with ID [37] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:16:50] [0009m.53s.097ms] [0] IT: Session [502] for host [MG-CEO] user [carlo] client type[0] clsvrPluginID[0] with process ID [28624] created
+[2021.02.22 21:16:50] [0009m.53s.099ms] [1] SC[502]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [502] host [MG-CEO] user [carlo] process ID [28624]
+[2021.02.22 21:16:50] [0009m.53s.130ms] [1] CMT: There are [2] clients now: 501, 502
+[2021.02.22 21:16:50] [0009m.53s.250ms] [1] SC[502]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [502] host [MG-CEO] user [carlo] process ID [28624]
+[2021.02.22 21:16:50] [0009m.53s.336ms] [1] CMT: Removed client [502]
+[2021.02.22 21:16:50] [0009m.53s.337ms] [1] CMT: There are [1] clients now: 501
+[2021.02.22 21:53:02] [0046m.05s.326ms] [1] SC[501]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:02] [0046m.05s.668ms] [1] SC[501]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:03] [0046m.06s.377ms] [1] SC[501]: UnRegistered sub-client [GlobalNetAliasUpdater_721925328] with ID [35] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:03] [0046m.06s.378ms] [1] SC[501]: UnRegistered sub-client [BlockCacheDxD:721466232] with ID [34] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:03] [0046m.06s.379ms] [1] SC[501]: UnRegistered sub-client [ObjectHolder_721922104] with ID [33] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:03] [0046m.06s.380ms] [1] SC[501]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:721495664] with ID [36] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:03] [0046m.06s.437ms] [1] SC[501]: UnRegistered sub-client [Navigator] with ID [12] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:03] [0046m.06s.445ms] [1] SC[501]: UnRegistered sub-client [FFSSelListener] with ID [17] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:04] [0046m.07s.622ms] [1] SC[501]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:05] [0046m.08s.335ms] [1] SC[501]: UnRegistered sub-client [FFSearch_RBHost] with ID [15] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:05] [0046m.08s.414ms] [1] SC[501]: UnRegistered sub-client [MyParts] with ID [22] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:05] [0046m.08s.420ms] [1] SC[501]: UnRegistered sub-client [toolboxes] with ID [24] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:05] [0046m.08s.822ms] [1] SC[501]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:05] [0046m.08s.824ms] [1] SC[501]: UnRegistered sub-client [PartReplaceUtils] with ID [29] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:05] [0046m.08s.827ms] [1] SC[501]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:06] [0046m.09s.700ms] [1] SC[501]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:660754016] with ID [26] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:06] [0046m.09s.702ms] [1] SC[501]: UnRegistered sub-client [Core::NetFlatData-8136] with ID [7] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:06] [0046m.09s.702ms] [1] SC[501]: UnRegistered sub-client [BlockCacheDxD:306626384] with ID [6] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:06] [0046m.09s.703ms] [1] SC[501]: UnRegistered sub-client [Core::DesignListener-306626432-0] with ID [5] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:06] [0046m.09s.703ms] [1] SC[501]: UnRegistered sub-client [SheetConnectorsCacheDxD:1614042434] with ID [27] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:06] [0046m.09s.704ms] [1] SC[501]: UnRegistered sub-client [NetsNamesCollectorDxD:1614042434] with ID [28] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:06] [0046m.09s.710ms] [1] SC[501]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:06] [0046m.09s.712ms] [1] SC[501]: UnRegistered sub-client [DxD] with ID [1] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:06] [0046m.09s.773ms] [1] SC[501]: UnRegistered sub-client [xprob] with ID [31] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:06] [0046m.09s.773ms] [1] SC[501]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:06] [0046m.09s.814ms] [1] SC[501]: UnRegistered sub-client [OutputWindow] with ID [13] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:09] [0046m.12s.019ms] [1] SC[501]: UnRegistered sub-client [DxDbSearch] with ID [37] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:09] [0046m.12s.064ms] [1] SC[501]: UnRegistered sub-client [SAE] with ID [18] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:09] [0046m.12s.136ms] [1] SC[501]: UnRegistered sub-client [CCZAddin] with ID [20] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:09] [0046m.12s.154ms] [1] SC[501]: UnRegistered sub-client [DxThumbnails] with ID [21] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:21] [0046m.24s.042ms] [1] SC[501]: UnRegistered sub-client [DxConstraints] with ID [19] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:21] [0046m.24s.181ms] [1] SC[501]: UnRegistered sub-client [PinsList] with ID [23] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:21] [0046m.24s.833ms] [1] SC[501]: UnRegistered sub-client [PlaceDevice] with ID [14] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:22] [0046m.25s.105ms] [1] SC[501]: UnRegistered sub-client [IBDInstanceDialog] with ID [25] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:22] [0046m.25s.130ms] [1] SC[501]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [501] host [MG-CEO] user [carlo] process ID [24208]
+[2021.02.22 21:53:22] [0046m.25s.157ms] [1] CMT: Removed client [501]
+[2021.02.22 21:53:22] [0046m.25s.158ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.02.22 21:53:24] [0046m.26s.898ms] [0] CMT: Starting server auto-close
+[2021.02.22 21:53:24] [0046m.27s.002ms] [0] S: Closing server
+[2021.02.22 21:53:24] [0046m.27s.158ms] [0] iCDB Server PI: Closing plugins
+[2021.02.22 21:53:24] [0046m.27s.158ms] [0] iCDB Server PI: Plugins closed
+[2021.02.22 21:53:24] [0046m.27s.158ms] [0] iCDB Server PI: Unloading database
+[2021.02.22 21:53:24] [0046m.27s.159ms] [0] iCDB Server PI: Saving storage
+[2021.02.22 21:53:24] [0046m.27s.159ms] [0] iCDB Server PI: Closing database
+[2021.02.22 21:53:24] [0046m.27s.259ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[39%] data[94%]
+[2021.02.22 21:53:24] [0046m.27s.259ms] [1] iCDB Server PI: Stats: Database file size [375792 (367.0 kB)]
+[2021.02.22 21:53:24] [0046m.27s.358ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2021.02.22 21:53:24] [0046m.27s.377ms] [0] iCDB Server PI: Database closed
+[2021.02.22 21:53:24] [0046m.27s.377ms] [0] iCDB Server PI: Defragmenting database
+[2021.02.22 21:53:24] [0046m.27s.379ms] [0] iCDB Server PI: Creating database [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\database] backup to file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\database\cdbback\2021-02-22 21.53.24-28604-d.zip]
+[2021.02.22 21:53:24] [0046m.27s.526ms] [0] iCDB Server PI: Database backup: DONE
+[2021.02.22 21:53:24] [0046m.27s.733ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.02.22 21:53:24] [0046m.27s.733ms] [0] Database GUARD OK: [375792]
+[2021.02.22 21:53:24] [0046m.27s.733ms] [0] SingleFile: [171f-7068-5684-9bdf] SFI version check [1009] [1009]
+[2021.02.22 21:53:24] [0046m.27s.745ms] [0] SingleFile: [171f-7068-5684-9bdf] Database SFI header has been read in [12ms 901us]
+[2021.02.22 21:53:25] [0046m.28s.226ms] [1] iCDB Server PI: Stats: Database file sizes: before[375792 (367.0 kB)], after[271792 (265.4 kB)], gain[104000 (101.6 kB)]
+[2021.02.22 21:53:25] [0046m.28s.317ms] [0] Single file [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\database\icdb.dat] closed with size [271792 (265.4 kB)]
+[2021.02.22 21:53:25] [0046m.28s.317ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2021.02.22 21:53:25] [0046m.28s.317ms] [1] BackupTransaction: Removing database backup [C:\DATA\Proyectos\Manicato Group\1 - Manicato Group\110 - Smart-HVAC\MG-Smart-HVAC\MG-Smart-HVAC\Smart-HVAC_netlist\database\cdbback\2021-02-22 21.53.24-28604-d.zip]
+[2021.02.22 21:53:25] [0046m.28s.330ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [708907] ticks
+[2021.02.22 21:53:25] [0046m.28s.330ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [70890] microseconds
+[2021.02.22 21:53:25] [0046m.28s.330ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [167]
+[2021.02.22 21:53:25] [0046m.28s.330ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [2355] commands per second
+[2021.02.22 21:53:25] [0046m.28s.330ms] [1] iCDB Server PI: Stats: Mem[32886784]
+[2021.02.22 21:53:25] [0046m.28s.330ms] [1] iCDB Server PI: Stats: MemPeak[43847680]
+[2021.02.22 21:53:25] [0046m.28s.458ms] [0] MWT: Destroy the shutdown block reason.
+[2021.02.22 21:53:25] [0046m.28s.464ms] [0] MWT: STOP
+[2021.02.22 21:53:25] [0046m.28s.465ms] [0] S: STOP

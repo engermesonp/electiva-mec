@@ -1,0 +1,5 @@
+pcb: Warning 5720: Check LogFiles/IC-SHELTER2.err for VIEWBASE messages
+pcb: Error 5709: Could not open schematic IC-SHELTER2
+pcb: Note 5626: Summary of LogFiles/pcberr.log
+Status 0, Notes 1, Warnings 1
+Errors 1, Failures 0, Fatals 0, Internals 0

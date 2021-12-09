@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<PartListerConfiguration version="3">
+  <Entry name="description" value="Default PL config"/>
+  <Entry name="outputFormat" value="EXCEL"/>
+  <Entry name="outputFileExt" value="xlsx"/>
+  <Entry name="pagination" value="NO"/>
+  <Entry name="pagelength" value="65535"/>
+  <Entry name="delimiter" value=" "/>
+  <Entry name="delimiterbefore" value="NO"/>
+  <Entry name="delimiterafter" value="NO"/>
+  <Entry name="addTitleRow" value="YES"/>
+  <Entry name="ignoreColumnWidths" value="NO"/>
+  <Header>
+    <Line text="Part Lister output for $(NAME)"/>
+    <Line text="Generated on $(DATE)"/>
+  </Header>
+  <Columns>
+    <Column type="NUMBER" label="#" width="3"/>
+    <Column type="QUANTITY" label="QTY" width="5"/>
+    <Column type="PROPERTY" property="DEVICE" label="DEVICE" width="10" display="Unique"/>
+    <Column type="PROPERTY" property="PKG_TYPE" label="PKG_TYPE" width="15" display="Unique"/>
+    <Column type="PROPERTY" property="VALUE" label="VALUE" width="10" display="Unique"/>
+    <Column type="PROPERTY" property="PART_NUMBER" label="PART_NUMBER" width="10" key="PRIMARY" display="Unique"/>
+    <Column type="PROPERTY" property="Manufacture" label="MANUFACTURE" width="10" display="Unique"/>
+    <Column type="PROPERTY" property="REFDES" label="REFDES" width="10" justification="LEFT" sort="ASCENDING" priority="1" key="SECONDARY" display="Compress"/>
+  </Columns>
+</PartListerConfiguration>

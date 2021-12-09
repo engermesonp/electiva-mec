@@ -1,0 +1,179 @@
+| Wirelist created using version 6.1 
+V 6.1
+DW Block_Fox_CR7
+|Q Power_Suply 1
+AS Power_Suply INOV_VER_REC=19:09:01_4-5-21
+AS Power_Suply PINORDER=DC+ DC- L1 Neutro
+AP Power_Suply 1 PINTYPE=OUT
+AP Power_Suply 2 PINTYPE=OUT
+AP Power_Suply 3 PINTYPE=IN
+AP Power_Suply 4 PINTYPE=IN
+|Q Salidas_RLY 1
+AS Salidas_RLY INOV_VER_REC=6:04:13_3-29-21
+AS Salidas_RLY PINORDER=1A 1B 2A 2B FAN1 FAN1_MICRO FAN2 FAN2_MICRO FAN3 FAN3_MICRO FAN_COM OUT1_MICRO OUT2_MICRO
+AP Salidas_RLY 1 PINTYPE=BI
+AP Salidas_RLY 2 PINTYPE=BI
+AP Salidas_RLY 3 PINTYPE=BI
+AP Salidas_RLY 4 PINTYPE=BI
+AP Salidas_RLY 5 PINTYPE=BI
+AP Salidas_RLY 6 PINTYPE=BI
+AP Salidas_RLY 7 PINTYPE=BI
+AP Salidas_RLY 8 PINTYPE=BI
+AP Salidas_RLY 9 PINTYPE=BI
+AP Salidas_RLY 10 PINTYPE=BI
+AP Salidas_RLY 11 PINTYPE=BI
+AP Salidas_RLY 12 PINTYPE=BI
+AP Salidas_RLY 13 PINTYPE=BI
+|Q Entradas_Digitales 1
+AS Entradas_Digitales INOV_VER_REC=1:44:45_4-6-21
+AS Entradas_Digitales PINORDER=1N1+ 1N1- 1N2+ 1N2- 1N3+ 1N3- 1N4+ 1N4- 1N_MICRO 2N_MICRO 3N_MICRO 4N_MICRO
+AP Entradas_Digitales 1 PINTYPE=BI
+AP Entradas_Digitales 2 PINTYPE=BI
+AP Entradas_Digitales 3 PINTYPE=BI
+AP Entradas_Digitales 4 PINTYPE=BI
+AP Entradas_Digitales 5 PINTYPE=BI
+AP Entradas_Digitales 6 PINTYPE=BI
+AP Entradas_Digitales 7 PINTYPE=BI
+AP Entradas_Digitales 8 PINTYPE=BI
+AP Entradas_Digitales 9 PINTYPE=OUT
+AP Entradas_Digitales 10 PINTYPE=OUT
+AP Entradas_Digitales 11 PINTYPE=OUT
+AP Entradas_Digitales 12 PINTYPE=OUT
+|Q Micro 1
+AS Micro INOV_VER_REC=21:02:12_3-28-21
+AS Micro PINORDER=1N_MICRO 2N_MICRO 3N_MICRO 4N_MICRO COM_LCD COM_XX FAN1_MICRO FAN2_MICRO FAN3_MICRO OUT1_MICRO OUT2_MICRO RX RX_LCD TX TX_LCD
+AP Micro 1 PINTYPE=IN
+AP Micro 2 PINTYPE=IN
+AP Micro 3 PINTYPE=IN
+AP Micro 4 PINTYPE=IN
+AP Micro 5 PINTYPE=OUT
+AP Micro 6 PINTYPE=BI
+AP Micro 7 PINTYPE=BI
+AP Micro 8 PINTYPE=BI
+AP Micro 9 PINTYPE=BI
+AP Micro 10 PINTYPE=BI
+AP Micro 11 PINTYPE=BI
+AP Micro 12 PINTYPE=BI
+AP Micro 13 PINTYPE=OUT
+AP Micro 14 PINTYPE=BI
+AP Micro 15 PINTYPE=OUT
+|Q RS485_BMS 1
+AS RS485_BMS INOV_VER_REC=1:29:29_3-28-21
+AS RS485_BMS PINORDER=COM_XX RS485+ RS485- RS485_GND RX TX
+AP RS485_BMS 1 PINTYPE=BI
+AP RS485_BMS 2 PINTYPE=BI
+AP RS485_BMS 3 PINTYPE=BI
+AP RS485_BMS 4 PINTYPE=BI
+AP RS485_BMS 5 PINTYPE=BI
+AP RS485_BMS 6 PINTYPE=BI
+|Q BMS 1
+AS BMS INOV_VER_REC=1:00:22_3-28-21
+AS BMS PINORDER=COM_LCD LCDA+ LCDA- RX_LCD TX_LCD
+AP BMS 1 PINTYPE=IN
+AP BMS 2 PINTYPE=BI
+AP BMS 3 PINTYPE=BI
+AP BMS 4 PINTYPE=IN
+AP BMS 5 PINTYPE=IN
+AS Builtin:bi_hier INOV_VER_REC=15:07:4_11-3-14
+AS Builtin:bi_hier PINORDER=IN
+AP Builtin:bi_hier 1 PINTYPE=IN
+AP Builtin:bi_hier 1 XREF=
+G +12V
+G +5.0V
+G AGND
+G GND
+G VDD
+W Power_Suply $1I12
+I $1I12 Power_Suply DC+ _1N87 L1 Neutro 
+|R 19:09:01_4-5-21
+W Salidas_RLY $1I16
+I $1I16 Salidas_RLY _1N97 1B _1N93 _1N95 _1N105 FAN1_MICRO _1N103 FAN2_MICRO _1N101 FAN3_MICRO _1N107 OUT1_MICRO OUT2_MICRO 
+|R 6:04:13_3-29-21
+W Entradas_Digitales $1I18
+I $1I18 Entradas_Digitales _1N117 _1N119 _1N121 _1N123 _1N125 _1N127 _1N129 _1N131 1N_MICRO 2N_MICRO 3N_MICRO 4N_MICRO 
+|R 1:44:45_4-6-21
+W Micro $1I20
+I $1I20 Micro 1N_MICRO 2N_MICRO 3N_MICRO 4N_MICRO COM_LCD COM_XX FAN1_MICRO FAN2_MICRO FAN3_MICRO OUT1_MICRO OUT2_MICRO RX RX_LCD TX TX_LCD 
+|R 21:02:12_3-28-21
+W RS485_BMS $1I22
+I $1I22 RS485_BMS COM_XX CON_RS485+ CON_RS485- CON_RS485_GND RX TX 
+|R 1:29:29_3-28-21
+W BMS $1I24
+I $1I24 BMS COM_LCD _1N89 _1N91 RX_LCD TX_LCD 
+|R 1:00:22_3-28-21
+P Builtin:bi_hier DC+
+I DC+ Builtin:bi_hier DC+ 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier DC-
+I DC- Builtin:bi_hier _1N87 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier LCDA+
+I LCDA+ Builtin:bi_hier _1N89 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier LCDA-
+I LCDA- Builtin:bi_hier _1N91 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 2A
+I 2A Builtin:bi_hier _1N93 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 2B
+I 2B Builtin:bi_hier _1N95 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1A
+I 1A Builtin:bi_hier _1N97 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1B
+I 1B Builtin:bi_hier 1B 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N4-
+I 1N4- Builtin:bi_hier _1N131 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N1+
+I 1N1+ Builtin:bi_hier _1N117 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier FAN3
+I FAN3 Builtin:bi_hier _1N101 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier FAN_COM
+I FAN_COM Builtin:bi_hier _1N107 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier FAN2
+I FAN2 Builtin:bi_hier _1N103 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier FAN1
+I FAN1 Builtin:bi_hier _1N105 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N1-
+I 1N1- Builtin:bi_hier _1N119 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N2-
+I 1N2- Builtin:bi_hier _1N123 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N3+
+I 1N3+ Builtin:bi_hier _1N125 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N3-
+I 1N3- Builtin:bi_hier _1N127 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N4+
+I 1N4+ Builtin:bi_hier _1N129 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier 1N2+
+I 1N2+ Builtin:bi_hier _1N121 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier RS485+
+I RS485+ Builtin:bi_hier CON_RS485+ 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier L1
+I L1 Builtin:bi_hier L1 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier Neutro
+I Neutro Builtin:bi_hier Neutro 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier RS485_GND
+I RS485_GND Builtin:bi_hier CON_RS485_GND 
+|R 15:07:4_11-3-14
+P Builtin:bi_hier RS485-
+I RS485- Builtin:bi_hier CON_RS485- 
+|R 15:07:4_11-3-14
+EW

@@ -1,0 +1,29 @@
+[2021.04.05 21:55:44] [0000m.13s.349ms] [0] WELCOME
+[2021.04.05 21:55:44] [0000m.13s.351ms] [1] iCDB Database ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.04.05 21:55:44] [0000m.13s.351ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.04.05 21:55:44] [0000m.13s.351ms] [1] Base flow version [VX.2.7]
+[2021.04.05 21:55:44] [0000m.13s.351ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.04.05 21:55:44] [0000m.13s.351ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [1] Machine [LAPTOP-H77R9T97]  IP [127.0.0.1,192.168.1.42,192.168.137.1]  User [abrah]  PID [3984]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [1] Operating system [Microsoft Windows 8 Home Premium Edition, 64-bit (build 9200)]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [1] Current working dir [C:\Users\abrah\Desktop\Fox\Esquematico\Primera version]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;"C:\Program Files\Microsoft SQL Server\120\Tools\Bin;C:\MinGW\bin;";C:\Program Files\TortoiseGit\bin;C:\Users\abrah\AppData\Local\Microsoft\WindowsApps;]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [1] SDD_PLATFORM [win32]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [3] File change time:        [2021-04-05 21.49.10]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [3] File modification time:  [2021-04-05 21.49.10]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [3] Last change time:        [2021-04-05 21.49.10]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [3] Last database open information:
+[2021.04.05 21:55:44] [0000m.13s.354ms] [3] Time:             [2021-04-05 21.43.33]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [3] Location:         [C:\Users\abrah\Desktop\Esquematico\Primera version\database\icdb.dat]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [3] Machine:          [LAPTOP-H77R9T97]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [3] User:             [abrah]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [3] PID:              [13752]
+[2021.04.05 21:55:44] [0000m.13s.354ms] [3] Application:      [iCDB Server]
+[2021.04.05 21:55:44] [0000m.13s.355ms] [3] Operating system: [Microsoft Windows 10 Home Premium Edition, 64-bit (build 18363)]
+[2021.04.05 21:55:44] [0000m.13s.355ms] [3] Database GUID must be regenerated
+[2021.04.05 21:55:44] [0000m.13s.355ms] [3] Previous database GUID [7a4d-d556-4bc8-5f57-4ccb-b60a-ccbb-6060-d8ea-9a87-7642-503d]
+[2021.04.05 21:55:44] [0000m.13s.355ms] [3] Current database GUID  [e5b8-4e3a-37c0-eab5-0afb-b606-afbb-6060-9ac8-9a87-7642-503d]
+[2021.04.05 21:55:44] [0000m.13s.355ms] [0] .

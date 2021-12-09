@@ -1,0 +1,121 @@
+[2021-03-12 14.43.47] Successfully created [AutoSave] backup [2021-03-12 14.43.47 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-15 13.01.42] Successfully created [AutoSave] backup [2021-03-15 13.01.42 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-15 17.01.42] Successfully created [AutoSave] backup [2021-03-15 17.01.42 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-15 21.01.42] Successfully created [AutoSave] backup [2021-03-15 21.01.42 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-15 21.01.42] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-12 14.43.47 - auto.zip].
+[2021-03-15 21.01.42] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-12 14.43.47 - auto.zip] removed.
+[2021-03-22 16.42.10] Successfully created [AutoSave] backup [2021-03-22 16.42.10 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-22 16.42.10] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-15 13.01.42 - auto.zip].
+[2021-03-22 16.42.10] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-15 13.01.42 - auto.zip] removed.
+[2021-03-22 20.42.10] Successfully created [AutoSave] backup [2021-03-22 20.42.10 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-22 20.42.10] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-15 17.01.42 - auto.zip].
+[2021-03-22 20.42.10] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-15 17.01.42 - auto.zip] removed.
+[2021-03-26 23.18.03] Successfully created [AutoSave] backup [2021-03-26 23.18.02 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-26 23.18.03] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-15 21.01.42 - auto.zip].
+[2021-03-26 23.18.03] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-15 21.01.42 - auto.zip] removed.
+[2021-03-27 03.18.02] Successfully created [AutoSave] backup [2021-03-27 03.18.02 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-27 03.18.02] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-22 16.42.10 - auto.zip].
+[2021-03-27 03.18.02] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-22 16.42.10 - auto.zip] removed.
+[2021-03-27 03.36.00] Successfully created [Symbol Update] backup [2021-03-27 03.36.00 - symUpd.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-27 04.06.31] Successfully created [Symbol Update] backup [2021-03-27 04.06.31 - symUpd.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-27 04.06.31] Removing excessive [Symbol Update] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-27 03.36.00 - symUpd.zip].
+[2021-03-27 04.06.31] [Symbol Update] backup file [p1\ProjectBackup\backups\2021-03-27 03.36.00 - symUpd.zip] removed.
+[2021-03-27 19.13.21] Successfully created [AutoSave] backup [2021-03-27 19.13.20 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-27 19.13.21] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-22 20.42.10 - auto.zip].
+[2021-03-27 19.13.21] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-22 20.42.10 - auto.zip] removed.
+[2021-03-27 23.13.21] Successfully created [AutoSave] backup [2021-03-27 23.13.20 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-27 23.13.21] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-26 23.18.02 - auto.zip].
+[2021-03-27 23.13.21] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-26 23.18.02 - auto.zip] removed.
+[2021-03-28 16.22.47] Successfully created [AutoSave] backup [2021-03-28 16.22.46 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-28 16.22.47] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-27 03.18.02 - auto.zip].
+[2021-03-28 16.22.47] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-27 03.18.02 - auto.zip] removed.
+[2021-03-28 20.22.46] Successfully created [AutoSave] backup [2021-03-28 20.22.46 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-28 20.22.46] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-27 19.13.20 - auto.zip].
+[2021-03-28 20.22.46] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-27 19.13.20 - auto.zip] removed.
+[2021-03-28 20.24.34] Successfully created [Symbol Update] backup [2021-03-28 20.24.32 - symUpd.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-28 20.24.34] Removing excessive [Symbol Update] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-27 04.06.31 - symUpd.zip].
+[2021-03-28 20.24.34] [Symbol Update] backup file [p1\ProjectBackup\backups\2021-03-27 04.06.31 - symUpd.zip] removed.
+[2021-03-29 00.22.47] Successfully created [AutoSave] backup [2021-03-29 00.22.46 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-29 00.22.47] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-27 23.13.20 - auto.zip].
+[2021-03-29 00.22.47] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-27 23.13.20 - auto.zip] removed.
+[2021-03-29 00.32.15] Successfully created [Symbol Update] backup [2021-03-29 00.32.15 - symUpd.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-29 00.32.15] Removing excessive [Symbol Update] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-28 20.24.32 - symUpd.zip].
+[2021-03-29 00.32.15] [Symbol Update] backup file [p1\ProjectBackup\backups\2021-03-28 20.24.32 - symUpd.zip] removed.
+[2021-03-29 00.47.12] Successfully created [Symbol Update] backup [2021-03-29 00.47.12 - symUpd.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-29 00.47.12] Removing excessive [Symbol Update] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 00.32.15 - symUpd.zip].
+[2021-03-29 00.47.12] [Symbol Update] backup file [p1\ProjectBackup\backups\2021-03-29 00.32.15 - symUpd.zip] removed.
+[2021-03-29 02.48.44] Successfully created [Symbol Update] backup [2021-03-29 02.48.43 - symUpd.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-29 02.48.44] Removing excessive [Symbol Update] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 00.47.12 - symUpd.zip].
+[2021-03-29 02.48.44] [Symbol Update] backup file [p1\ProjectBackup\backups\2021-03-29 00.47.12 - symUpd.zip] removed.
+[2021-03-29 02.55.01] Successfully created [Symbol Update] backup [2021-03-29 02.55.01 - symUpd.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-29 02.55.01] Removing excessive [Symbol Update] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 02.48.43 - symUpd.zip].
+[2021-03-29 02.55.01] [Symbol Update] backup file [p1\ProjectBackup\backups\2021-03-29 02.48.43 - symUpd.zip] removed.
+[2021-03-29 16.00.03] Successfully created [AutoSave] backup [2021-03-29 16.00.03 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-29 16.00.03] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-28 16.22.46 - auto.zip].
+[2021-03-29 16.00.03] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-28 16.22.46 - auto.zip] removed.
+[2021-03-29 18.14.22] Successfully created [Symbol Update] backup [2021-03-29 18.14.21 - symUpd.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-29 18.14.22] Removing excessive [Symbol Update] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 02.55.01 - symUpd.zip].
+[2021-03-29 18.14.22] [Symbol Update] backup file [p1\ProjectBackup\backups\2021-03-29 02.55.01 - symUpd.zip] removed.
+[2021-03-29 20.00.03] Successfully created [AutoSave] backup [2021-03-29 20.00.03 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-29 20.00.03] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-28 20.22.46 - auto.zip].
+[2021-03-29 20.00.03] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-28 20.22.46 - auto.zip] removed.
+[2021-03-30 00.00.05] Successfully created [AutoSave] backup [2021-03-30 00.00.03 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-30 00.00.05] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 00.22.46 - auto.zip].
+[2021-03-30 00.00.06] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-29 00.22.46 - auto.zip] removed.
+[2021-03-30 13.54.50] Successfully created [AutoSave] backup [2021-03-30 13.54.49 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-03-30 13.54.50] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 16.00.03 - auto.zip].
+[2021-03-30 13.54.50] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-29 16.00.03 - auto.zip] removed.
+[2021-04-03 14.58.05] Successfully created [AutoSave] backup [2021-04-03 14.58.03 - auto.zip] requested by [LAPTOP-KS6TQ7BV:losin].
+[2021-04-03 14.58.05] Removing excessive [AutoSave] backup file [C:\Users\losin\Desktop\p1\ProjectBackup\backups\2021-03-29 20.00.03 - auto.zip].
+[2021-04-03 14.58.05] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-29 20.00.03 - auto.zip] removed.
+[2021-04-05 12.52.01] Successfully created [AutoSave] backup [2021-04-05 12.52.00 - auto.zip] requested by [LAPTOP-H77R9T97:abrah].
+[2021-04-05 12.52.01] Removing excessive [AutoSave] backup file [C:\Users\abrah\Desktop\fox-cr7-erick-d-master\Esquematico\p1\ProjectBackup\backups\2021-03-30 00.00.03 - auto.zip].
+[2021-04-05 12.52.01] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-30 00.00.03 - auto.zip] removed.
+[2021-04-05 16.52.00] Successfully created [AutoSave] backup [2021-04-05 16.52.00 - auto.zip] requested by [LAPTOP-H77R9T97:abrah].
+[2021-04-05 16.52.00] Removing excessive [AutoSave] backup file [C:\Users\abrah\Desktop\fox-cr7-erick-d-master\Esquematico\p1\ProjectBackup\backups\2021-03-30 13.54.49 - auto.zip].
+[2021-04-05 16.52.00] [AutoSave] backup file [p1\ProjectBackup\backups\2021-03-30 13.54.49 - auto.zip] removed.
+[2021-04-05 21.43.33] Successfully created [AutoSave] backup [2021-04-05 21.43.33 - auto.zip] requested by [LAPTOP-H77R9T97:abrah].
+[2021-04-05 21.43.33] Removing excessive [AutoSave] backup file [C:\Users\abrah\Desktop\Esquematico\Primera version\ProjectBackup\backups\2021-04-03 14.58.03 - auto.zip].
+[2021-04-05 21.43.33] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-04-03 14.58.03 - auto.zip] removed.
+[2021-04-08 18.13.13] Successfully created [AutoSave] backup [2021-04-08 18.13.13 - auto.zip] requested by [LAPTOP-H77R9T97:abrah].
+[2021-04-08 18.13.13] Removing excessive [AutoSave] backup file [C:\Users\abrah\Desktop\Fox\Esquematico\Primera version\ProjectBackup\backups\2021-04-05 12.52.00 - auto.zip].
+[2021-04-08 18.13.13] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-04-05 12.52.00 - auto.zip] removed.
+[2021-04-08 22.13.13] Successfully created [AutoSave] backup [2021-04-08 22.13.13 - auto.zip] requested by [LAPTOP-H77R9T97:abrah].
+[2021-04-08 22.13.13] Removing excessive [AutoSave] backup file [C:\Users\abrah\Desktop\Fox\Esquematico\Primera version\ProjectBackup\backups\2021-04-05 16.52.00 - auto.zip].
+[2021-04-08 22.13.13] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-04-05 16.52.00 - auto.zip] removed.
+[2021-04-09 19.21.55] Successfully created [AutoSave] backup [2021-04-09 19.21.53 - auto.zip] requested by [LAPTOP-H77R9T97:abrah].
+[2021-04-09 19.21.55] Removing excessive [AutoSave] backup file [C:\Users\abrah\Desktop\Fox\Esquematico\Primera version\ProjectBackup\backups\2021-04-05 21.43.33 - auto.zip].
+[2021-04-09 19.21.55] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-04-05 21.43.33 - auto.zip] removed.
+[2021-04-12 07.05.54] Successfully created [AutoSave] backup [2021-04-12 07.05.53 - auto.zip] requested by [LAPTOP-H77R9T97:abrah].
+[2021-04-12 07.05.54] Removing excessive [AutoSave] backup file [C:\Users\abrah\Desktop\Fox\Esquematico\Primera version\ProjectBackup\backups\2021-04-08 18.13.13 - auto.zip].
+[2021-04-12 07.05.54] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-04-08 18.13.13 - auto.zip] removed.
+[2021-04-12 11.05.53] Successfully created [AutoSave] backup [2021-04-12 11.05.53 - auto.zip] requested by [LAPTOP-H77R9T97:abrah].
+[2021-04-12 11.05.53] Removing excessive [AutoSave] backup file [C:\Users\abrah\Desktop\Fox\Esquematico\Primera version\ProjectBackup\backups\2021-04-08 22.13.13 - auto.zip].
+[2021-04-12 11.05.53] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-04-08 22.13.13 - auto.zip] removed.
+[2021-04-12 15.05.53] Successfully created [AutoSave] backup [2021-04-12 15.05.53 - auto.zip] requested by [LAPTOP-H77R9T97:abrah].
+[2021-04-12 15.05.53] Removing excessive [AutoSave] backup file [C:\Users\abrah\Desktop\Fox\Esquematico\Primera version\ProjectBackup\backups\2021-04-09 19.21.53 - auto.zip].
+[2021-04-12 15.05.53] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-04-09 19.21.53 - auto.zip] removed.
+[2021-10-31 17.18.03] Successfully created [AutoSave] backup [2021-10-31 17.18.02 - auto.zip] requested by [DESKTOP-VH610FS:enger].
+[2021-10-31 17.18.03] Removing excessive [AutoSave] backup file [C:\Users\enger\Desktop\Proyecto Karlos\Proyecto Karlos\20174425\Esquematico\Primera version\ProjectBackup\backups\2021-04-12 07.05.53 - auto.zip].
+[2021-10-31 17.18.03] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-04-12 07.05.53 - auto.zip] removed.
+[2021-11-01 00.13.37] Successfully created [AutoSave] backup [2021-11-01 00.13.37 - auto.zip] requested by [DESKTOP-VH610FS:enger].
+[2021-11-01 00.13.37] Removing excessive [AutoSave] backup file [C:\Users\enger\Desktop\Proyecto Karlos\Proyecto Karlos\20174425\Esquematico\Primera version\ProjectBackup\backups\2021-04-12 11.05.53 - auto.zip].
+[2021-11-01 00.13.37] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-04-12 11.05.53 - auto.zip] removed.
+[2021-11-01 09.08.32] Successfully created [AutoSave] backup [2021-11-01 09.08.32 - auto.zip] requested by [DESKTOP-VH610FS:enger].
+[2021-11-01 09.08.32] Removing excessive [AutoSave] backup file [C:\Users\enger\Desktop\Proyecto Karlos\Proyecto Karlos\20174425\Esquematico\Primera version\ProjectBackup\backups\2021-04-12 15.05.53 - auto.zip].
+[2021-11-01 09.08.32] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-04-12 15.05.53 - auto.zip] removed.
+[2021-11-01 15.25.20] Successfully created [AutoSave] backup [2021-11-01 15.25.20 - auto.zip] requested by [DESKTOP-VH610FS:enger].
+[2021-11-01 15.25.20] Removing excessive [AutoSave] backup file [C:\Users\enger\Desktop\Proyecto Karlos\Proyecto Karlos\20174425\Esquematico\Primera version\ProjectBackup\backups\2021-10-31 17.18.02 - auto.zip].
+[2021-11-01 15.25.20] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-10-31 17.18.02 - auto.zip] removed.
+[2021-11-08 22.42.12] Successfully created [AutoSave] backup [2021-11-08 22.42.12 - auto.zip] requested by [DESKTOP-VH610FS:enger].
+[2021-11-08 22.42.12] Removing excessive [AutoSave] backup file [C:\Users\enger\Desktop\Proyecto Karlos\Proyecto Karlos\20174425\Esquematico\Primera version\ProjectBackup\backups\2021-11-01 00.13.37 - auto.zip].
+[2021-11-08 22.42.12] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-11-01 00.13.37 - auto.zip] removed.
+[2021-11-09 21.13.56] Successfully created [AutoSave] backup [2021-11-09 21.13.55 - auto.zip] requested by [DESKTOP-VH610FS:enger].
+[2021-11-09 21.13.56] Removing excessive [AutoSave] backup file [C:\Users\enger\Desktop\Proyecto Karlos\Proyecto Karlos\20174425\Esquematico\Primera version\ProjectBackup\backups\2021-11-01 09.08.32 - auto.zip].
+[2021-11-09 21.13.56] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-11-01 09.08.32 - auto.zip] removed.
+[2021-11-10 21.28.03] Successfully created [AutoSave] backup [2021-11-10 21.28.02 - auto.zip] requested by [DESKTOP-VH610FS:enger].
+[2021-11-10 21.28.03] Removing excessive [AutoSave] backup file [C:\Users\enger\Desktop\Proyecto Karlos\Proyecto Karlos\20174425\Esquematico\Primera version\ProjectBackup\backups\2021-11-01 15.25.20 - auto.zip].
+[2021-11-10 21.28.03] [AutoSave] backup file [Primera version\ProjectBackup\backups\2021-11-01 15.25.20 - auto.zip] removed.
+[2021-11-13 13.11.20] Successfully created [AutoSave] backup [2021-11-13 13.11.20 - auto.zip] requested by [DESKTOP-VH610FS:enger].
+[2021-11-13 13.11.20] Removing excessive [AutoSave] backup file [C:\Users\enger\Desktop\diseño mecatronico\data\2018-6852\Esquematico\micro ic_shelter\ProjectBackup\backups\2021-11-08 22.42.12 - auto.zip].
+[2021-11-13 13.11.20] [AutoSave] backup file [micro ic_shelter\ProjectBackup\backups\2021-11-08 22.42.12 - auto.zip] removed.

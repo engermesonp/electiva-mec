@@ -1,0 +1,29 @@
+[2021.11.10 21:52:24] [0000m.14s.635ms] [0] WELCOME
+[2021.11.10 21:52:24] [0000m.14s.636ms] [1] iCDB Database ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.11.10 21:52:24] [0000m.14s.636ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.11.10 21:52:24] [0000m.14s.636ms] [1] Base flow version [VX.2.7]
+[2021.11.10 21:52:24] [0000m.14s.636ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.11.10 21:52:24] [0000m.14s.636ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.11.10 21:52:24] [0000m.14s.638ms] [1] Machine [DESKTOP-VH610FS]  IP [10.0.0.3,127.0.0.1]  User [enger]  PID [3924]
+[2021.11.10 21:52:24] [0000m.14s.638ms] [1] Operating system [Microsoft Windows 8 Home Premium Edition, 64-bit (build 9200)]
+[2021.11.10 21:52:24] [0000m.14s.638ms] [1] Current working dir [C:\Users\enger\Desktop\diseño mecatronico\data\2018-6852\Esquematico\micro ic_shelter]
+[2021.11.10 21:52:24] [0000m.14s.638ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\MinGW\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;D:\runtime\win64;D:\bin;D:\polyspace\bin;D:\matlab2016\runtime\win64;D:\matlab2016\bin;D:\matlab2016\polyspace\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\enger\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code Insiders\bin;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\CAMCAD]
+[2021.11.10 21:52:24] [0000m.14s.638ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [1] SDD_PLATFORM [win32]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] File change time:        [2021-11-10 21.37.04]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] File modification time:  [2021-11-10 21.37.04]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] Last change time:        [2021-11-10 21.37.04]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] Last database open information:
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] Time:             [2021-11-10 21.28.02]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] Location:         [C:\Users\enger\Desktop\Proyecto Karlos\Proyecto Karlos\20174425\Esquematico\Primera version\database\icdb.dat]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] Machine:          [DESKTOP-VH610FS]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] User:             [enger]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] PID:              [8732]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] Application:      [iCDB Server]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] Operating system: [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19042)]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] Database GUID must be regenerated
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] Previous database GUID [f8cc-68a1-2ec7-4fea-8080-f71e-080f-7160-9d9f-eead-2e3f-10f8]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [3] Current database GUID  [25af-3dfb-94d8-c795-8577-c81e-577c-8160-1c9f-eead-2e3f-10f8]
+[2021.11.10 21:52:24] [0000m.14s.639ms] [0] .
